@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="895a90f1-eefc-488d-97d9-3ed6e9e15e77" name="Changes" comment="feat: initial implementation of secure password generator using MVC architecture">
+    <list default="true" id="895a90f1-eefc-488d-97d9-3ed6e9e15e77" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,10 +24,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;BrandonToapanta&quot;
-  }
+  &quot;lastFilter&quot;: {}
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
@@ -143,7 +141,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782092291956</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="docs: update README with architecture and diagram images">
+      <option name="closed" value="true" />
+      <created>1782092666693</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1782092666693</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,7 +160,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -162,6 +174,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: initial implementation of secure password generator using MVC architecture" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: initial implementation of secure password generator using MVC architecture" />
+    <MESSAGE value="docs: update README with architecture and diagram images" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>

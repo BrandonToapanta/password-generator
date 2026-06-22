@@ -223,6 +223,10 @@ Cuanto mayor sea la entropía, mayor será la resistencia frente a ataques de fu
 * Arquitectura desacoplada para facilitar mantenimiento y auditoría.
 
 ---
+# 📷 Video Paso 1 y Paso 2
+
+https://youtu.be/S91nOc-hmL4
+---
 
 # 👨‍💻 Autor
 
