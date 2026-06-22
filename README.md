@@ -71,8 +71,9 @@ El sistema implementa el patrón **MVC (Model-View-Controller)** con el objetivo
 password-generator/
 │
 ├── docs/                           # Diagramas funcionales y arquitectónicos
-│   ├── diagrama_casos_uso.png
-│   └── diagrama_flujo_procesos.png
+│   ├── diagrama_caso_uso.png
+│   └── diagrama_flujo.png
+│   └── diagrama_uml.png
 │
 ├── src/                            # Código fuente de la aplicación
 │   ├── __init__.py
